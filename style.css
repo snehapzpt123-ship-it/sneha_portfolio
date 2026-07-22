@@ -1,0 +1,18 @@
+body {
+  font-family: 'Poppins', sans-serif;
+  margin: 0;
+  background: #f9f9f9;
+  color: #333;
+}
+header {
+  background: #4CAF50;
+  color: white;
+  text-align: center;
+  padding: 50px;
+}
+section {
+  padding: 40px;
+}
+h2 {
+  color: #4CAF50;
+}
